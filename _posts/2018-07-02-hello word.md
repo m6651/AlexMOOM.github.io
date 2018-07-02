@@ -31,7 +31,7 @@ layout:     post   				    	# 使用的布局（不需要改）<br>
 title:      My First Post 				# 标题 <br>
 subtitle:   Hello World, Hello Blog 	# 副标题<br>
 date:       2018-07-02 					# 时间<br>
-author:     merlin 						# 作者<br>
+author:     Merlin 						# 作者<br>
 header-img: img/post-bg-20180702.jpg 	# 这篇文章标题背景图片<br>
 catalog: true 							# 是否归档<br>
 tags:									# 标签<br>
