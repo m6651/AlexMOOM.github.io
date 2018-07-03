@@ -1,14 +1,19 @@
 # AlexMOOM.github.io
 for personal blog web
+
 # 如何发布新文章
+
 ### 一、新建.md文件
 在AlexMOOM/AlexMOOM.github.io目录中找到_post文件夹，在_post文件夹内新建“*.md”文件
+
 ### 二、md文件命名格式：
 要用“yyyy-mm-dd-name.md”命名md文件（name中“空格”和“-”等效），例如下列格式等价：
 <li>1. 2018-07-02-hello-word.md</li>
 <li>2. 2018-07-02-hello word.md</li>
 将来网页打开该文章后，地址栏将显示的是https://AlexMOOM.github.io/2018/07/02/hello-word/
+
 ### 三、md文件内容格式：
+
 md文件内开头加上：
 
 <p>
